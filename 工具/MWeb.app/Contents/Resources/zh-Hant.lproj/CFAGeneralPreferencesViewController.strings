@@ -1,0 +1,36 @@
+
+/* Class = "NSButtonCell"; title = "Open the external source window on launch."; ObjectID = "5Fv-RM-Y9q"; */
+"5Fv-RM-Y9q.title" = "啓動時默認打開外部模式";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "percent"; ObjectID = "6Kg-Xu-NIB"; */
+"6Kg-Xu-NIB.ibShadowedToolTip" = "百分比";
+
+/* Class = "NSButtonCell"; title = "Show the Editor pane only in Editor & Preview View Mode."; ObjectID = "OqN-Bc-xdS"; */
+"OqN-Bc-xdS.title" = "切換到編輯器&預覽模式時只顯示編輯器欄（分類和文檔列表不顯示）";
+
+/* Class = "NSButtonCell"; title = "Save As..."; ObjectID = "RIi-kU-fYi"; */
+"RIi-kU-fYi.title" = "另存為...";
+
+/* Class = "NSButtonCell"; title = "Resize window when hide pane"; ObjectID = "a3b-Fy-Cck"; */
+"a3b-Fy-Cck.title" = "切換視圖模式（二欄，三欄）時，保持編輯器大小不變";
+
+/* Class = "NSButtonCell"; title = "Show in Finder"; ObjectID = "aRf-Lc-b9U"; */
+"aRf-Lc-b9U.title" = "在 Finder 中顯示";
+
+/* Class = "NSButtonCell"; title = "Insert spaces instead of tabs"; ObjectID = "fMj-Hu-jlf"; */
+"fMj-Hu-jlf.title" = "用 4 個空格代替 Tab";
+
+/* Class = "NSButtonCell"; title = "Show local picture in Editor"; ObjectID = "obt-UE-843"; */
+"obt-UE-843.title" = "在編輯器中顯示本地圖片";
+
+/* Class = "NSButtonCell"; title = "Auto insert list and blockquote prefix"; ObjectID = "qGM-dM-eid"; */
+"qGM-dM-eid.title" = "自動插入列表和引用前綴";
+
+/* Class = "NSTextFieldCell"; title = "Build Sites Save Location:"; ObjectID = "sbn-S9-QnN"; */
+"sbn-S9-QnN.title" = "生成的靜態網站保存的位置:";
+
+/* Class = "NSButtonCell"; title = "Make links clickable in Editor view"; ObjectID = "vgt-Yk-TDY"; */
+"vgt-Yk-TDY.title" = "讓編輯器中的連接可以點擊";
+
+/* Class = "NSTextFieldCell"; title = "Typewriter Scrolling Activate in (percent):"; ObjectID = "ygU-BS-3mZ"; */
+"ygU-BS-3mZ.title" = "內容高度達到多少時(百分比)啓用打字機滾動(Typewriter Scrolling):";
